@@ -1,3 +1,12 @@
+maratona-background (20240530) noble; urgency=medium
+
+  * Migrate to Ubuntu 22.04 (noble)
+  * Change package format from 1.0 to 3.0 quilt
+  * Replace the 2023 wallpaper with the common one
+  * Change package format from 1.0 to 3.0 native
+
+ -- Davi Antônio da Silva Santos <antoniossdavi@gmail.com>  Tue, 18 Jun 2024 19:50:04 -0300
+
 maratona-background (20230909) jammy; urgency=medium
 
   * Add wallpaper for Chapecó 2023
